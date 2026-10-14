@@ -10,6 +10,7 @@ organise, transform, and investigate flight records to identify patterns in
 departure and arrival delays, cancellations, travel distances, and flight times.
 
 
+
 **Dataset**
 
 The project uses the nycflights13 dataset, which contains information on 
@@ -29,6 +30,7 @@ The project primarily uses the flights dataset.
 The second part of the project uses a separate social fitness dataset to explore 
 relationship frequency and energy levels. That dataset is provided separately 
 for the relevant analysis to run.
+
 
 
 **Methods**
@@ -54,6 +56,7 @@ social relationship frequency and energy levels. Used scatter plots and linear
 regression to explore patterns between relationship frequency and perceived energy.
 
 
+
 **Tools**
 
 - R and RStudio
@@ -65,6 +68,7 @@ regression to explore patterns between relationship frequency and perceived ener
 - ggplot2
 
 - Base R
+
 
 
 **Key Insights and Outcomes**
@@ -79,6 +83,7 @@ engagement frequency and energy levels in the second dataset.
 Final findings are presented through the analysis output and visualisations.
 
 
+
 **Project Outputs**
 
 - R script containing the data wrangling operations
@@ -86,6 +91,7 @@ Final findings are presented through the analysis output and visualisations.
 - HTML report presenting the project output
 
 - Visualisation and analytical findings
+
 
 
 **Reproducibility**
