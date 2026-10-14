@@ -1,14 +1,14 @@
 # NYC Flights & Social Fitness Data Wrangling and Analysis
 
 
-## Problem
+**Problem**
 This project applies data-wrangling techniques in R to explore and analyse 
 relationship frequency and energy levels, as well as flight data from 
 New York City in 2013. With regards to the flight data, the aim is to filter, 
 organise, transform, and investigate flight records to identify patterns in 
 departure and arrival delays, cancellations, travel distances, and flight times.
 
-## Dataset
+**Dataset**
 The project uses the nycflights13 dataset, which contains information on 
 336,776 flights departing from New York City airports in 2013.
 
@@ -27,7 +27,7 @@ The second part of the project uses a separate social fitness dataset to explore
 relationship frequency and energy levels. That dataset is provided separately 
 for the relevant analysis to run.
 
-## Methods
+**Methods**
 - Inspected the dataset's structure, dimensions, column names, summary 
 statistics, and missing values.
 
@@ -48,7 +48,7 @@ transformation, frequency analysis, and exploratory data analysis to investigate
 social relationship frequency and energy levels. Used scatter plots and linear 
 regression to explore patterns between relationship frequency and perceived energy.
 
-## Tools
+**Tools**
 - R and RStudio
 
 - nycflights13
@@ -59,7 +59,7 @@ regression to explore patterns between relationship frequency and perceived ener
 
 - Base R
 
-## Key Insights and Outcomes
+**Key Insights and Outcomes**
 The project displays practical skills in data inspection, filtering, sorting, 
 variable transformation, missing-value investigation, and summarisation.
 
@@ -69,14 +69,14 @@ engagement frequency and energy levels in the second dataset.
 
 Final findings are presented through the analysis output and visualisations.
 
-## Project Outputs
+**Project Outputs**
 - R script containing the data wrangling operations
 
 - HTML report presenting the project output
 
 - Visualisation and analytical findings
 
-## Reproducibility
+**Reproducibility**
 The nycflights13 dataset can be accessed by installing the package in R. 
 
 
